@@ -1,0 +1,14 @@
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\bin\Debug\netcoreapp3.1\programação_orientada_a_função.exe
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\bin\Debug\netcoreapp3.1\programação_orientada_a_função.deps.json
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\bin\Debug\netcoreapp3.1\programação_orientada_a_função.runtimeconfig.json
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\bin\Debug\netcoreapp3.1\programação_orientada_a_função.runtimeconfig.dev.json
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\bin\Debug\netcoreapp3.1\programação_orientada_a_função.dll
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\bin\Debug\netcoreapp3.1\programação_orientada_a_função.pdb
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\obj\Debug\netcoreapp3.1\programação_orientada_a_função.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\obj\Debug\netcoreapp3.1\programação_orientada_a_função.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\obj\Debug\netcoreapp3.1\programação_orientada_a_função.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\obj\Debug\netcoreapp3.1\programação_orientada_a_função.AssemblyInfo.cs
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\obj\Debug\netcoreapp3.1\programação_orientada_a_função.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\obj\Debug\netcoreapp3.1\programação_orientada_a_função.dll
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\obj\Debug\netcoreapp3.1\programação_orientada_a_função.pdb
+C:\Users\win\source\repos\programação_orientada_a_função\programação_orientada_a_função\obj\Debug\netcoreapp3.1\programação_orientada_a_função.genruntimeconfig.cache
